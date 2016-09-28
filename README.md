@@ -1,5 +1,8 @@
 # Eventex 
 
+[![Build Status](https://travis-ci.org/rubensfunke/wttd.svg?branch=master)](https://travis-ci.org/rubensfunke/wttd)
+[![Code Health](https://landscape.io/github/rubensfunke/wttd/master/landscape.svg?style=flat)](https://landscape.io/github/rubensfunke/wttd/master)
+
 Sistema de eventos encomentado.
 
 ## Como desenvolver?
